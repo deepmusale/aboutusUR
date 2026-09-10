@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700;900&family=Roboto:wght@300;400;500;700;900&display=swap");
+/* Avenir — supplied by USEReady as Avenir.ttc; split to individual TTFs. */
+@font-face{font-family:"Avenir";src:url("../assets/fonts/Avenir-Light.ttf") format("truetype");font-weight:300;font-style:normal;font-display:swap}
+@font-face{font-family:"Avenir";src:url("../assets/fonts/Avenir-LightOblique.ttf") format("truetype");font-weight:300;font-style:italic;font-display:swap}
+@font-face{font-family:"Avenir";src:url("../assets/fonts/Avenir-Book.ttf") format("truetype");font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:"Avenir";src:url("../assets/fonts/Avenir-BookOblique.ttf") format("truetype");font-weight:400;font-style:italic;font-display:swap}
+@font-face{font-family:"Avenir";src:url("../assets/fonts/Avenir-Medium.ttf") format("truetype");font-weight:500;font-style:normal;font-display:swap}
+@font-face{font-family:"Avenir";src:url("../assets/fonts/Avenir-MediumOblique.ttf") format("truetype");font-weight:500;font-style:italic;font-display:swap}
+@font-face{font-family:"Avenir";src:url("../assets/fonts/Avenir-Heavy.ttf") format("truetype");font-weight:700;font-style:normal;font-display:swap}
+@font-face{font-family:"Avenir";src:url("../assets/fonts/Avenir-HeavyOblique.ttf") format("truetype");font-weight:700;font-style:italic;font-display:swap}
+@font-face{font-family:"Avenir";src:url("../assets/fonts/Avenir-Black.ttf") format("truetype");font-weight:900;font-style:normal;font-display:swap}
